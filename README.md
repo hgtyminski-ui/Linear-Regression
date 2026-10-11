@@ -1,4 +1,4 @@
-# Linear-Regression
+# Regression
 Linear Regression mini - projects
 # Boston Housing — Linear Regression
 
